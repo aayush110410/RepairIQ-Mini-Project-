@@ -144,12 +144,6 @@ We welcome contributions! Please:
 4. Push to branch (`git push origin feature-name`).
 5. Open a Pull Request.
 
-## Team
-
-* Aayush Sharma
-* Anuj Rawat
-* Anushka Sharma
-* Arya Jaiswal
 
 ## License
 
